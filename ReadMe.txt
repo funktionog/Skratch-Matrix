@@ -41,10 +41,20 @@ Skratch Matrix is a Python-based desktop tool designed for DJs and enthusiasts t
 
 
 -----------------------------------------------------------------------------------------------------------------------------
+### Background: Flash Apps and Their Deprecation
+-----------------------------------------------------------------------------------------------------------------------------
+
+**Flash Apps** were interactive web applications created using Adobe Flash, a multimedia software platform renowned for its ability to produce animations, games, and interactive content. Flash was widely adopted during the early 2000s, providing a platform for creative and engaging experiences on the web, including DJ tools like Flash Loopers. Flash-based apps allowed developers to embed dynamic and rich content directly into web pages, making them a cornerstone of early web interactivity.
+
+However, Flash faced significant challenges over time, such as performance issues, security vulnerabilities, and the rise of modern alternatives like HTML5, CSS3, and JavaScript. Adobe officially deprecated Flash on **December 31, 2020**, ceasing support and distribution for the platform. This move marked the end of an era and prompted many developers to transition to more robust, secure, and future-proof technologies for building interactive web applications.
+
+-----------------------------------------------------------------------------------------------------------------------------
 ## What Are Flash Loopers?
 -----------------------------------------------------------------------------------------------------------------------------
 
 Flash Loopers are short audio loops tailored for DJs to scratch over. These loops provide consistent beats and rhythms, allowing scratch DJs to hone their skills or perform extended sets. Often used in combination with turntables or controllers, Flash Loopers are indispensable tools for modern DJs.
+
+Despite the official deprecation of Adobe Flash in 2020, which rendered many Flash-based applications obsolete, some scratch DJs still maintain a collection of Flash loopers. They often run these loopers locally on their devices, preserving a nostalgic and functional part of their creative process. These legacy tools continue to hold sentimental and practical value, allowing DJs to keep practicing and performing with the loops they have grown accustomed to.
 
 -----------------------------------------------------------------------------------------------------------------------------
 ## What is Tablist.net?
