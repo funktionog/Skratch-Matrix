@@ -73,7 +73,7 @@ Skratch Matrix provides a single location to create and edit a playlist to launc
 -----------------------------------------------------------------------------------------------------------------------------
 ## How to Use Skratch Matrix
 -----------------------------------------------------------------------------------------------------------------------------
-
+![](https://github.com/funktionog/Skratch-Matrix/blob/main/Skartch%20Matrix.png)
 
 1. **Add a Looper**:
    - Enter the looper's name in the "Looper Name" field.
