@@ -1,6 +1,5 @@
-# Skratch Matrix
-
--------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------
   # ___________                   __         .__         _____          __         .__        
 # /   _____/  | ______________ _/  |_  ____ |  |__     /     \ _____ _/  |________|__|__  ___
  #\_____  \|  |/ /\_  __ \__  \\   __\/ ___\|  |  \   /  \ /  \\__  \\   __\_  __ \  \  \/  /
@@ -8,13 +7,17 @@
 #/_______  /__|_ \ |__|  (____  /__|  \___  >___|  / \____|__  (____  /__|  |__|  |__/__/\_ \
 #        \/     \/            \/          \/     \/          \/     \/                     \/
 #                                                                                       by funktion_og
--------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------
 
+-----------------------------------------------------------------------------------------------------------------------------
 ## Overview
+-----------------------------------------------------------------------------------------------------------------------------
+Skratch Matrix is a Python-based desktop tool designed for DJs and enthusiasts to manage and access their favorite Loopers and Flash Loopers. These looped beats are essential for scratch DJs, providing endless grooves to scratch over during practice or live performances. Skratch Matrix integrates local file support and links to Tablist.net, a platform offering a rich library of web-based loopers.
 
-Skratch Matrix is a Python-based desktop tool designed for DJs and enthusiasts to manage and access their favorite Flash Loopers. These looped beats are essential for scratch DJs, providing endless beats to scratch over during practice or live performances. Skratch Matrix integrates local file support and links to Tablist.net, a platform offering a rich library of web-based loopers.
-
+-----------------------------------------------------------------------------------------------------------------------------
 ## Features
+-----------------------------------------------------------------------------------------------------------------------------
 
 - Create and manage a personalized playlist of Flash Loopers.
 - Add loopers via local file paths or URLs.
@@ -22,7 +25,10 @@ Skratch Matrix is a Python-based desktop tool designed for DJs and enthusiasts t
 - Launch loopers directly from the app.
 - Save and load playlists for convenience.
 
+
+-----------------------------------------------------------------------------------------------------------------------------
 ##  Libraries:
+-----------------------------------------------------------------------------------------------------------------------------
 
 - tkinter: Creates the graphical user interface (GUI).
 - messagebox: Provides popup dialogs for warnings/errors.
@@ -34,20 +40,23 @@ Skratch Matrix is a Python-based desktop tool designed for DJs and enthusiasts t
 - termcolor and pyfiglet: Generate stylized ASCII art for the terminal.
 
 
-
+-----------------------------------------------------------------------------------------------------------------------------
 ## What Are Flash Loopers?
+-----------------------------------------------------------------------------------------------------------------------------
 
 Flash Loopers are short audio loops tailored for DJs to scratch over. These loops provide consistent beats and rhythms, allowing scratch DJs to hone their skills or perform extended sets. Often used in combination with turntables or controllers, Flash Loopers are indispensable tools for modern DJs.
 
+-----------------------------------------------------------------------------------------------------------------------------
 ## What is Tablist.net?
+-----------------------------------------------------------------------------------------------------------------------------
 
 Tablist.net is a popular online resource for scratch DJs. It hosts a vast collection of web loopers and resources, making it a go-to platform for DJs seeking fresh beats and creative inspiration. Skratch Matrix integrates this platform, enabling users to directly browse and use these web loopers.
 Use the Tablist.net button to launch the Tablist.net weblooper. Once there you can locate a looper you like and copy the url to add 
 
 
-
+-----------------------------------------------------------------------------------------------------------------------------
 ## How to Use Skratch Matrix
-
+-----------------------------------------------------------------------------------------------------------------------------
 
 
 1. **Add a Looper**:
@@ -64,13 +73,12 @@ Use the Tablist.net button to launch the Tablist.net weblooper. Once there you c
    - Your playlist is automatically saved to a JSON file and loaded upon reopening the app.
 
  
-
+-----------------------------------------------------------------------------------------------------------------------------
 ## Contributing
+-----------------------------------------------------------------------------------------------------------------------------
 
 Contributions to Skratch Matrix are welcome! Feel free to submit issues or pull requests to enhance the functionality or improve the user experience.
 
 
----
 
-"Happy Skratching!"
 
