@@ -1,6 +1,6 @@
 # Skratch Matrix
 
-------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
   # ___________                   __         .__         _____          __         .__        
 # /   _____/  | ______________ _/  |_  ____ |  |__     /     \ _____ _/  |________|__|__  ___
  #\_____  \|  |/ /\_  __ \__  \\   __\/ ___\|  |  \   /  \ /  \\__  \\   __\_  __ \  \  \/  /
@@ -8,11 +8,11 @@
 #/_______  /__|_ \ |__|  (____  /__|  \___  >___|  / \____|__  (____  /__|  |__|  |__/__/\_ \
 #        \/     \/            \/          \/     \/          \/     \/                     \/
 #                                                                                       by funktion_og
-------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
 
 ## Overview
 
-Skratch Matrix is a Python-based desktop tool designed for DJs and enthusiasts to manage and access their favorite Flash Loopers. These looped beats are essential for scratch DJs, providing endless grooves to scratch over during practice or live performances. Skratch Matrix integrates local file support and links to Tablist.net, a platform offering a rich library of web-based loopers.
+Skratch Matrix is a Python-based desktop tool designed for DJs and enthusiasts to manage and access their favorite Flash Loopers. These looped beats are essential for scratch DJs, providing endless beats to scratch over during practice or live performances. Skratch Matrix integrates local file support and links to Tablist.net, a platform offering a rich library of web-based loopers.
 
 ## Features
 
