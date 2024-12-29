@@ -22,6 +22,19 @@ Skratch Matrix is a Python-based desktop tool designed for DJs and enthusiasts t
 - Launch loopers directly from the app.
 - Save and load playlists for convenience.
 
+##  Libraries:
+
+- tkinter: Creates the graphical user interface (GUI).
+- messagebox: Provides popup dialogs for warnings/errors.
+- webbrowser: Opens URLs in a web browser.
+- json: Reads and writes playlist data to a JSON file.
+- os: Handles file paths and system-level interactions.
+- sys: Provides system-specific parameters and functions.
+- colorama: Adds colored terminal text, enhancing text-based visuals.
+- termcolor and pyfiglet: Generate stylized ASCII art for the terminal.
+
+
+
 ## What Are Flash Loopers?
 
 Flash Loopers are short audio loops tailored for DJs to scratch over. These loops provide consistent beats and rhythms, allowing scratch DJs to hone their skills or perform extended sets. Often used in combination with turntables or controllers, Flash Loopers are indispensable tools for modern DJs.
@@ -29,40 +42,33 @@ Flash Loopers are short audio loops tailored for DJs to scratch over. These loop
 ## What is Tablist.net?
 
 Tablist.net is a popular online resource for scratch DJs. It hosts a vast collection of web loopers and resources, making it a go-to platform for DJs seeking fresh beats and creative inspiration. Skratch Matrix integrates this platform, enabling users to directly browse and use these web loopers.
+Use the Tablist.net button to launch the Tablist.net weblooper. Once there you can locate a looper you like and copy the url to add 
+
+
 
 ## How to Use Skratch Matrix
+
+
 
 1. **Add a Looper**:
    - Enter the looper's name in the "Looper Name" field.
    - Provide the file path or URL in the "URL or File Path" field.
+   - To add a Flashlooper that is already on your harddrive you will need to copy the file path of the .exe and paste it in the "URL or File Path" field.
    - Click "Add to Playlist" to save it.
 2. **Access Tablist.net**:
-   - Click the "Tablist.net" button to open the web looper library.
+   - Click the "Tablist.net" button to open the tablist.net web looper library.
 3. **Manage Your Playlist**:
    - Use "Remove Looper" to delete items from your playlist.
    - Click "Open Looper" to launch a selected item.
 4. **Save and Load**:
    - Your playlist is automatically saved to a JSON file and loaded upon reopening the app.
 
-## Installation
-
-1. Clone the repository or download the source code.
-2. Install the required Python libraries:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the application:
-   ```bash
-   python skratch_matrix.py
-   ```
+ 
 
 ## Contributing
 
 Contributions to Skratch Matrix are welcome! Feel free to submit issues or pull requests to enhance the functionality or improve the user experience.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ---
 
