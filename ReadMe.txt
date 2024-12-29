@@ -65,6 +65,12 @@ Use the Tablist.net button to launch the Tablist.net weblooper. Once there you c
 
 
 -----------------------------------------------------------------------------------------------------------------------------
+## How Does Skratch Matrix Fit Into This Discussion?
+-----------------------------------------------------------------------------------------------------------------------------
+
+Skratch Matrix provides a single location to create and edit a playlist to launch a user's favorite webloopers stored on Tablist.net and a user's favorite Flashloopers that are locally stored on their device.
+
+-----------------------------------------------------------------------------------------------------------------------------
 ## How to Use Skratch Matrix
 -----------------------------------------------------------------------------------------------------------------------------
 
